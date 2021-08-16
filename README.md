@@ -1,7 +1,7 @@
 # Hey! Welcome to my profile!
 
 - 👨‍💻 Software Engineering student at University of Brasilia.
-- 📚 I’m currently learning JavaScript and CSS.
+- 📚 I’m currently learning JavaScript, Html and CSS.
 
 ##
 
