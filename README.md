@@ -12,7 +12,3 @@
 
  #
   
-    
-  ![Snake animation](https://github.com/lucaaassb/lucaaassb/blob/output/github-contribution-grid-snake.svg)
-   
-</div>
